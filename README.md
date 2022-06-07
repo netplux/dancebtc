@@ -1,7 +1,7 @@
-# just fucking doing this shit on an ubuntu or localhost or really it doesn't fucking matter
+# just fucking put this shit on an ubuntu or localhost or really it doesn't fucking matter so just fart
 
 
-This script if very dynamic and customizable but why would change what I just fucking wrote you dickhead. 
+This script can be very dynamic and customizable but why would you want to change what I just fucking wrote you dickhead. 
 
 
 
@@ -29,7 +29,7 @@ set up ur notifications on ur shit also or it wont work -.-
 
 2. use `python3 Main.py --help` to see all the commands that work and then the others that dont work
 
-2 . `python3 Main.py -t 2 `.This will run actually... u know what, just type the fucking help command in the console and figure it out once you fork it
+2 . `python3 Main.py -t 2 `. This will run- ...  actually... u know what, just type the fucking help command in the console and figure it out once you fork it
 
  # Note
  This project is still under development because i am on soooooo much fuckinggngngnn medication
